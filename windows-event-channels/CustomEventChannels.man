@@ -137,6 +137,7 @@
 					<channel name="WEC7-Active-Directory" chid="WEC7-Active-Directory" symbol="WEC7_Active_Directory" type="Operational" enabled="true"></channel>
 					<channel name="WEC7-Terminal-Services" chid="WEC7-Terminal-Services" symbol="WEC7_Terminal_Services" type="Operational" enabled="true"></channel>
 					<channel name="WEC7-Privilege-Use" chid="WEC7-Privilege-Use" symbol="WEC7_Privilege_Use" type="Operational" enabled="true"></channel>
+					<channel name="WEC7-MSSQLServer" chid="WEC7-MSSQLServer" symbol="WEC7_MSSQLServer" type="Operational" enabled="true"></channel>
 				</channels>
 				<templates>
 					<template tid="DUMMY_TEMPLATE">
